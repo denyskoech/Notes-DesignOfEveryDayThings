@@ -1,60 +1,38 @@
-User Centered Design 
-Off the Leash by W.B.Park
+<html>
+<h1>User Centered Design</h1> 
+<p><i>Off the Leash by W.B.Park</i></p>
 
-The point of POET is all about the user. It emphasizes on making products useable and understandable. 
-A design should:
-•	Make easy to determine what actions are possible at any moment.
-•	Make things visible.
-•	Make it easy to evaluate the current state of the system.
-•	Follow natural mappings; between intentions and the required actions; between actions and the resulting effects; and between the information that is visible and the interpretation of the system state.
-Make sure that user can figure out what to do and can tell what is going on.
-Design should make use of the natural properties of people and the world e.g. it should exploit natural relationships and natural constraints. Design should make it as much as possible to do without instruction or labels and if need be of training and instruction, then it should be needed once. If everything is in place then then the outcomes of the design are visible and easily interpreted. A design fails when a user thinks of how they are going to remember anything. 
-Seven principles for transforming difficult tasks into simple ones
-How does a designer go about a task?
-1.	Using world knowledge and the knowledge in the head.
-2.	Simplifying the structure of the tasks.
-3.	Making things visible: Bridge gulfs of execution and evaluation.
-4.	Getting the mappings right.
-5.	Exploiting the power of constraints, both natural and artificial.
-6.	Designing for error.
-7.	When all else fails, standardize.
-
-1.	Using world knowledge and the knowledge in the head
-According to W.B.Park people learn better and feel more comfortable when the knowledge required for a task is available externally (explicit in the world or readily derived through constraints). Knowledge is only useful if there is a natural easily interpreted relationship between that knowledge and the information it is intended to convey about possible actions and outcomes. Performance can be faster and efficient if the user can internalize required knowledge into their head and the design should not obstruct action e.g. for users who are well practiced and experienced. It should be easy to combine the knowledge in the head with that in the world, whichever is readily available be used without interference of the other and can support each other. 
-Three conceptual models
-If the user has a conceptual model, the operation of any device is easily learned and problems are tracked down more accurately and easily. For this to happen, it requires the principles of operation be observable, all actions be consistent with the conceptual model and the visible parts of the device reflect the current state of the device with consistency with the model. Designer should develop a conceptual model appropriate for the user that highlights important parts of the operation of the device that is understandable by the user. Three different aspects of mental models must be distinguished:
-•	Design model – the conceptualization that the designer has in mind.
-•	User’s model – what the user develops to explain the operation of the system
-•	System image – it is critical, designer must ensure everything about the product is consistent with and exemplifies the operation of the proper conceptual model.
-The user’ model and the design model are equivalent. However, user and designer communicate only through the system itself (the physical appearance, its operation, the way it responds and the manuals and instructions that accompany it). Among the three aspects, the user’s model is essential because it determines what is understood, it is up to the designer to start with a design model that is functional, learnable and useable. Designer must the system reveals the appropriate system image, from this, the user can acquire the proper user’s model and find support for the translation of intentions into actions and system state into interpretations. Note that user acquires all knowledge of the system from that system image.
-The role of manuals
-System image will include instructions and documentation. Most manuals don’t assist users as they should because of the nature it was written on e.g. they are written hastily after the product is designed. In the best of worlds, manuals are written first before the design and users do a test using mockups of the product. Even after carefully coming up with a manual, many users still don’t read them, designers have to deal with human nature when they design complex systems.
-2.	Simplifying the structure of the tasks
-Structure of task should be simple, minimizing the planning or problem solving they require. You can restructure complex tasks using technological tasks. The designer must pay attention to the psychology of the person like how much a person can hold in memory at a time. The limitations of the Short Term Memory (STM) are such that a person should not be required to remember more than about five unrelated items at one time, the system should provide technological assistance for any temporary memory requirement. The limitations of long term memory (LTM) mean that information is better and easily acquired if it makes sense, if it can be integrated into some conceptual framework. However, getting information from the LTM can be slow and contain errors. The system should assist by minimizing interruption, by providing aids to allow for recovery of the exact status of the operations that were interrupted. A task can be restructured through technology, or technology might provide aids to reduce the mental load. Technological aids should show the alternative courses of action; help evaluate implications; and portray outcomes in a more complete, more easily interpretable manner. These aids can make the mappings more visible or, better, make the mappings more natural. Four major technological approaches can be followed:
-i.	Keep the task much the same, but provide mental aids.
-Don't underestimate the power or importance of simple mental aids. We cannot trust our own memory structures to provide daily information so we keep notepads etc. Some mental aids are technological advances; these include watches, timers, calculators, pocket dictating machines, computer notepads, and computer alarms.
-ii.	Use technology to make visible what would otherwise be invisible, thus improving feedback and the ability to keep control. 
-The instruments in the automobile or aircraft do not change the task, but they do make visible the state of the engine and the other parts of the vehicle, even though you cannot physically get access to them. With modern computers and their powerful graphic displays, we now have the power to show what is really happening thus simplifying both understanding and performance.
-iii.	Automate, but keep the task much the same.
-Automation can harm as well as help, there is dangers in simplification. One impact of automation, as it was, the task will stay the same, but parts of it will disappear. In some cases the change are welcomed. The automatic spark advance in automobiles or cranking the engine to get it started was an advancement that was welcomed. Just a few people miss having manual control over the automobile choke. On the whole, this type of automation has resulted in useful advances, replacing tedious or unnecessary tasks and reducing what must be monitored.
-iv.	Change the nature of the task. 
-When a task is complex, technological aids can change the type of skill required by restructuring the task. Technology can help transform deep, wide structures into narrower, shallower ones. Most of the everyday activities are difficult for a large segment of the population and its difficulties can be overcome through the restructuring provided by a simple technology. 
-These first two approaches to mental aids keep the main tasks unchanged. They act as reminders. They supplement our perceptual abilities.
-Digital watches represent another example of how a new technology can supplant an old one; it has delayed or eliminated the need for children to learn the mapping of the analog hands of the traditional clock face onto the hours, minutes, and seconds of the day. Digital timepieces are controversial: in changing the representation of time, the power of the analog form has been lost, and it has become more difficult to make quick judgments about time.
-DON'T TAKE AWAY CONTROL 
-Automation has its virtues, but automation is dangerous when it takes too much control from the user. One problem is that overreliance on automated equipment can eliminate a person's ability to function without it, a prescription for disaster if, for example, one of the highly automated mechanisms of an aircraft suddenly fails. A second problem is that a system may not always do things exactly the way we would like, but we are forced to accept what happens because it is too difficult to change the operation. A third problem is that the person becomes a servant of the system, no longer able to control or influence what is happening. All tasks have several layers of control. The lowest level is the details of the operation, higher levels of control affect the overall task, the direction in which the work is going. Here we determine, supervise, and control the overall structure and goals. Automation can work at any level. Sometimes we really want to maintain control at the lower level. In some cases we would not want automation to interfere at other times we want to concentrate on higher level things.
-3.	MAKE THINGS VISIBLE: BRIDGE THE GULFS OF EXECUTION AND EVALUATION 
-Make things visible on the execution side of an action so that people know what is possible and how actions should be done; make things visible on the evaluation side so that people can tell the effects of their actions. There is more. The system should provide actions that match intentions. It should provide indications of system state that are readily perceivable and interpretable and that match intentions and expectations. And, of course, the system state should be visible or audible and readily interpretable. Make the outcomes of an action obvious.
-4.	GET THE MAPPINGS RIGHT 
-Exploit natural mappings. Make sure that the user can determine the relationships: 
-•	Between intentions and possible actions
-•	Between actions and their effects on the system
-•	Between actual system state and what is perceivable by sight, sound, or feel
-•	Between the perceived system state and the needs, intentions, and expectations of the user
-Natural mappings are the basis of "response compatibility" within the fields of human factors and ergonomics. The major requirement of response compatibility is that the spatial relationship between the positioning of controls and the system or objects upon which they operate should be as direct as possible, with the controls either on the objects themselves or arranged to have an analogical relationship to them. In similar fashion, the movement of the controls should be similar or analogous to the expected operation of the system. Difficulties arise wherever the positioning and movements of the controls deviate from strict proximity, mimicry, or analogy to the things being controlled. The same arguments apply to the relationship of system output to expectations. A critical part of an action is the evaluation of its effects. This requires timely feedback of the results. The feedback must provide information that matches a user's intentions and must be in a form that is easy to understand. Many systems omit the relevant visible outcomes of actions; even when information about the system state is provided, it may not be easy to interpret. The easiest way to make things understandable is to use graphics or pictures. Modern systems especially computer systems are capable of this, but the need seems not to have been recognized by designers. 
-5.	EXPLOIT THE POWER OF CONSTRAINTS, BOTH NATURAL AND ARTIFICIAL
-Use of constraints so that the user feels as if there is only one possible thing to do which is the right thing, of course. For example, the Lego toy motorcycle, which could be correctly put together by people who had never before seen it. The toy is not simple, it was carefully designed. It exploits a variety of constraints. It is a good example of the power of natural mappings and constraints, constraints that reduce the number of alternative actions at each step to at most a few.
-
-
-6.	DESIGN FOR ERROR
-Any error that can be made will be made. Plan for it. Think of each action by the user as an attempt to step in the right direction; an error is simply an action that is incompletely or improperly specified. Think of the action as part of a natural, constructive dialog between user and system. Try to support, not fight, the user's responses. Allow the user to recover from errors, to know what was done and what happened, and to reverse any unwanted outcome. Make it easy to reverse operations; make it hard to do irreversible actions. Design a system that can be explored thus forcing functions. 
+<p>The point of POET is all about the user. It emphasizes on making products useable and understandable. </p>
+<p>A design should:</p>
+<ol>
+    <li>Make easy to determine what actions are possible at any moment.</li>
+    <li>Make things visible.</li>
+    <li>Make it easy to evaluate the current state of the system.</li>
+    <li>Follow natural mappings; between intentions and the required actions; between actions and the resulting effects; and between the information that is visible and the interpretation of the system state.</li>
+</ol>
+<p>Make sure that user can figure out what to do and can tell what is going on.</p>
+<p>Design should make use of the natural properties of people and the world e.g. it should exploit natural relationships and natural constraints. Design should make it as much as possible to do without instruction or labels and if need be of training and instruction, then it should be needed once. If everything is in place then then the outcomes of the design are visible and easily interpreted. A design fails when a user thinks of how they are going to remember anything. </p>
+<p><strong>Seven principles for transforming difficult tasks into simple ones</strong></p>
+<p>How does a designer go about a task?</p>
+<ol start="1">
+<li>Using world knowledge and the knowledge in the head.</li>
+<li>Simplifying the structure of the tasks.</li>
+<li>Making things visible: Bridge gulfs of execution and evaluation.</li>
+<li>Getting the mappings right.</li>
+<li>Exploiting the power of constraints, both natural and artificial.</li>
+<li>Designing for error.</li>
+<li>When all else fails, standardize.</li>
+</ol>
+<ol start="1">
+<li><strong>Using world knowledge and the knowledge in the head</strong></li>
+<p>According to W.B.Park people learn better and feel more comfortable when the knowledge required for a task is available externally (explicit in the world or readily derived through constraints). Knowledge is only useful if there is a natural easily interpreted relationship between that knowledge and the information it is intended to convey about possible actions and outcomes. Performance can be faster and efficient if the user can internalize required knowledge into their head and the design should not obstruct action e.g. for users who are well practiced and experienced. It should be easy to combine the knowledge in the head with that in the world, whichever is readily available be used without interference of the other and can support each other. </p>
+<p><strong>Three conceptual models</strong></p>
+<p>If the user has a conceptual model, the operation of any device is easily learned and problems are tracked down more accurately and easily. For this to happen, it requires the principles of operation be observable, all actions be consistent with the conceptual model and the visible parts of the device reflect the current state of the device with consistency with the model. Designer should develop a conceptual model appropriate for the user that highlights important parts of the operation of the device that is understandable by the user. Three different aspects of mental models must be distinguished:</p>
+<p>•	Design model – the conceptualization that the designer has in mind.</p>
+<p>•	User’s model – what the user develops to explain the operation of the system</p>
+<p>•	System image – it is critical, designer must ensure everything about the product is consistent with and exemplifies the operation of the proper conceptual model.</p>
+<p>The user’ model and the design model are equivalent. However, user and designer communicate only through the system itself (the physical appearance, its operation, the way it responds and the manuals and instructions that accompany it). Among the three aspects, the user’s model is essential because it determines what is understood, it is up to the designer to start with a design model that is functional, learnable and useable. Designer must the system reveals the appropriate system image, from this, the user can acquire the proper user’s model and find support for the translation of intentions into actions and system state into interpretations. Note that user acquires all knowledge of the system from that system image.</p>
+<p><strong>The role of manuals</strong></p>
+<p>System image will include instructions and documentation. Most manuals don’t assist users as they should because of the nature it was written on e.g. they are written hastily after the product is designed. In the best of worlds, manuals are written first before the design and users do a test using mockups of the product. Even after carefully coming up with a manual, many users still don’t read them, designers have to deal with human nature when they design complex systems.</p>
+<li><strong>Simplifying the structure of the tasks</strong></li>
+<p>Structure of task should be simple, minimizing the planning or problem solving they require. You can restructure complex tasks using technological tasks. The designer must pay attention to the psychology of the person like how much a person can hold in memory at a time. The limitations of the Short Term Memory (STM) are such that a person should not be required to remember more than about five unrelated items at one time, the system should provide technological assistance for any temporary memory requirement. The limitations of long term memory (LTM) mean that information is better and easily acquired if it makes sense, if it can be integrated into some conceptual framework. However, getting information from the LTM can be slow and contain errors. The system should assist by minimizing interruption, by providing aids to allow for recovery of the exact status of the operations that were interrupted. A task can be restructured through technology, or technology might provide aids to reduce the mental load. Technological aids should show the alternative courses of action; help evaluate implications; and portray outcomes in a more complete, more easily interpretable manner. These aids can make the mappings more visible or, better, make the mappings more natural. Four major technological approaches can be followed:</p>
